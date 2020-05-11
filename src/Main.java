@@ -24,6 +24,7 @@ class Product
 		
 			System.out.println("Product Id is "+id);
 			System.out.println("Product");
+			System.out.println("Product1");
 			System.out.println("Product Name is "+productName);
 			System.out.println("Supplier Name is "+supplierName);
 		}
